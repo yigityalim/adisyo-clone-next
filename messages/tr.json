@@ -1,0 +1,21 @@
+{
+    "Index": {
+        "title": "Merhaba Dünya!",
+        "Metadata": {
+            "title": "Merhaba Dünya!",
+            "description": "React, Redux, Webpack, Babel, ES6, JavaScript ile oluşturulmuş bir uygulama.",
+            "keywords": "React, Redux, Webpack, Babel, ES6, JavaScript"
+        }
+    },
+    "NotFoundPage": {
+        "title": "Sayfa Bulunamadı",
+        "message": "Üzgünüz, aradığınız sayfa bulunamadı.",
+        "backToHome": "Geri dön"
+    },
+    "Locale": {
+        "title": "Dil",
+        "change": "Dili değiştir",
+        "en": "İngilizce",
+        "tr": "Türkçe"
+    }
+}

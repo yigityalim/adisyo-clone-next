@@ -1,0 +1,21 @@
+{
+    "Index": {
+        "title": "Hello world!",
+        "Metadata": {
+            "title": "Hello world!",
+            "description": "This is a simple example of a web application using React and Redux.",
+            "keywords": "React, Redux, Webpack, Babel, ES6, JavaScript"
+        }
+    },
+    "NotFoundPage": {
+        "title": "Page not found",
+        "message": "The page you are looking for does not exist.",
+        "backToHome": "Back to home"
+    },
+    "Locale": {
+        "title": "Language",
+        "change": "Change language",
+        "en": "English",
+        "tr": "Turkish"
+    }
+}

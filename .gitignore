@@ -28,6 +28,18 @@ yarn-error.log*
 # local env files
 .env*.local
 
+# husky
+.husky
+
+# lint-staged
+.lintstagedrc
+
+# yarn
+.yarn/cache
+
+# vscode
+.vscode
+
 # vercel
 .vercel
 
